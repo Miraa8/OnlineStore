@@ -15,7 +15,7 @@ A full-featured e-commerce application built with React, providing a seamless sh
 Explore the live demo [here](https://miraa8.github.io/OnlineStore/#/Products).
 
 ## Built With
-React
-HTML5
-CSS3
-JavaScript
+- React
+- HTML5
+- CSS3
+- JavaScript
